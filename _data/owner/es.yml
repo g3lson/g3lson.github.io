@@ -2,13 +2,13 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Ta marque"
+brand: "Vibox Cyber Security"
 
 # text below the brand name
 brand_sub_text: "$site_sample"
 
 # used for seo meta post author (if it's not defined in post)
-name: "Votre nom"
+name: "g3lson"
 
 # home page top header texts
 home:
@@ -42,7 +42,7 @@ creative_commons:
 # seo meta this is needed for each language
 # If meta_description is not defined in front matter, it's created from (post / page) content,
 # if it has no content, this will be used for page description. It is also used in manifest.json
-meta_common_description: "Votre méta description."
+meta_common_description: "Descrição Meta."
 
 # contact options (side nav bottom and about page)
 # the order of the items will be shown as here.
