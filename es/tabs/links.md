@@ -41,18 +41,18 @@ lng_pair: id_links
 ###########################################################
 page_data:
   main:
-    header: "リンク"
-    info: "リンクページの説明はこちら。"
+    header: "Links"
+    info: "Una descripcion para la pagina."
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
     - title: "JekyII / Liquid"
       type: id_jekyiiliquid
       color: "gray"
-    - title: "Webデザイン"
+    - title: "Web Design"
       type: id_webdesign
       color: "#F4A273"
-    - title: "プログラミング"
+    - title: "Programação"
       type: id_programming
       color: "#62b462"
 
@@ -62,33 +62,33 @@ page_data:
     - type: id_programming
       title: "Stack OverFlow"
       url: "https://stackoverflow.com/"
-      info: "Stack Overflowは、プロや熱狂的なプログラマー向けの質疑応答Webサイトです。"
+      info: "Stack Overflow é um site voltado para perguntas e respostas para professionais e entusiastas da programação."
 
     # jekyiiliquid
     - type: id_jekyiiliquid
       title: "Jekyll"
       url: "https://jekyllrb.com/"
-      info: "プレーンテキストを静的なWebサイトやブログに変換します。"
+      info: "Transforme o seu simples texto em websites estáticos e blogs."
     - type: id_jekyiiliquid
-      title: "Jekyllチートシート"
+      title: "Tabela rápida para Jekyll"
       url: "https://cloudcannon.com/community/jekyll-cheat-sheet/"
-      info: "覚えておくべきJekyll変数とフィルターは非常に多く、すべてを頭の中に入れておくのは難しい場合があります。 このチートシートは、Jekyllが実行できるすべてのことのクイックリファレンスとして使えます。"
+      info: "Existem tantos filtros e variáveis em Jekyll para se lembrar que pode ser difícil lembrar de todos. Essa tabela serve como uma rápida referência para tudo que Jekyll é capaz de fazer."
     - type: id_jekyiiliquid
-      title: "デザイナー向けLiquid"
+      title: "Liquid para Designers"
       url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Designers"
-      info: "デザイナー向けLiquid用GitHub wiki"
+      info: "Wiki do Liquid para Designers no GitHub"
     - type: id_jekyiiliquid
-      title: "プログラマー向けLiquid"
+      title: "Liquid para Programadores"
       url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers"
-      info: "プログラマー向けLiquid用GitHub wiki"
+      info: "Wiki de Liquid para Programadores no GitHub"
     - type: id_jekyiiliquid
-      title: "Liquidリファレンス"
+      title: "Referências de Liquid"
       url: "https://shopify.dev/api/liquid/"
-      info: "Liquidは、Shopifyによって作成され、Rubyで記述されたテンプレート言語です。 GitHubでオープンソースプロジェクトとして利用できるようになりました。"
+      info: "Liquid é uma linguagem modelo create pelo Shopify e escrita em Ruby. Ela, agora, está disponível em código aberto no GitHub."
 
     # webdesign
     - type: id_webdesign
       title: "W3Schools"
       url: "https://www.w3schools.com/"
-      info: "W3Schoolsは、Webのすべての主要言語で、無料のオンラインチュートリアル、リファレンス、および演習を提供しています。 HTML、CSS、JavaScript、Python、SQL、Javaなどの人気のあるテーマをカバーしています。"
+      info: "W3Schools oferece tutoriais gratuitos, referências e exercícios nas linguagens mais importantes da web, cobrindo a mais populares como HTML, CSS, JavaScript, Python, SQL, Java e mutio mais."
 ---
