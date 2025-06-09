@@ -46,7 +46,7 @@ Sin mas demora aqui el script espero que los disfruten :-)
 
 ```bash
 
-#/bin/bash
+#!/bin/bash
 
 # Author: Gelson Reynoso (aka g3lson) - vibox
 
