@@ -1,13 +1,23 @@
-# Simple Node.js Server
+# Documentation Platform
 
-This is a minimal Node.js application that starts an HTTP server.
+This project is a simple Node.js application that serves a small documentation platform without any external dependencies.
+
+## Features
+
+- Lists documentation files stored in the `docs/` directory.
+- View individual documents.
+- Upload new documents via a basic HTML form.
 
 ## Usage
 
-Run the server with:
+1. Ensure you have Node.js installed.
+2. Run the server with:
 
 ```bash
 node index.js
 ```
 
-The server listens on port `3000` and responds with `Hello World`.
+3. Open `http://localhost:3000` in your browser to see the list of documents.
+4. Click **Upload New Document** to add more documentation.
+
+Ten example documents covering various technology topics are included in the `docs/` directory.
