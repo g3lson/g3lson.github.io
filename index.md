@@ -37,9 +37,7 @@ img: ":home-heading.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+Welcome to **Vibox Cyber Security**. We provide modern solutions for digital defense.
+Explore our blog for tips and tutorials on protecting your data and securing your networks.
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
-
-{{ website_info_text_second }}
+Want to know more? Visit our [about page]({{ site.baseurl }}/tabs/about.html).

@@ -36,9 +36,6 @@ img: ":about.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
-
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
-
-{{ website_info_text_second }}
+Vibox Cyber Security is a team of enthusiasts focused on information security and privacy.
+Our mission is to share knowledge and tools that help you keep your digital life safe.
+Here you'll find tutorials, guides and our latest research in the cybersecurity world.
